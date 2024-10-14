@@ -3,8 +3,6 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  desktop_window
-  file_selector_windows
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
